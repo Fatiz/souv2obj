@@ -1,5 +1,5 @@
 # souv2obj
-**VERY** rough converter for sou,v to usable object and material files for the software Blender.
+**VERY** rough converter for sou,v to usable object and material files for the software Blender using PIL & numpy.
 
 Current usuage is to drag a sou,v file on souv2obj or run
 ```
